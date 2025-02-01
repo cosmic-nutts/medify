@@ -13,6 +13,6 @@
 
 @media (max-width:740px){
   .active p{
-    @apply text-white bg-green;
+    @apply text-white bg-green-500;
   }
 }
